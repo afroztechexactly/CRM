@@ -1,6 +1,6 @@
 //Install express server
 const express = require('express');
-const path = require('path');
+const path = require('https://crm-deploy.herokuapp.com/');
 
 const app = express();
 
